@@ -18,6 +18,10 @@ Vestidos Simultnaeos, Moda y arte
 ![WhatsApp Image 2026-03-27 at 02 44 33 (2)](https://github.com/user-attachments/assets/9f5c8b9a-c3d0-4e99-ac0d-12f9941c8188)
 ![WhatsApp Image 2026-03-27 at 02 44 34](https://github.com/user-attachments/assets/aa223389-5813-4370-ab1f-6adca3d297c9)
 
+* Primer dibujo
+
+Salio mal 
+
 ## Mi dibujo 
 ![Dibujo final](https://github.com/user-attachments/assets/4dd99e5c-4bcb-40ba-8658-f1dd45974ea2) 
 
