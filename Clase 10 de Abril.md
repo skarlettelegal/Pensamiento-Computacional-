@@ -46,6 +46,8 @@ function draw() {
 
 }
 
+
+
 ## Random Fuction
 
 let tamanoCuadrado;
@@ -87,6 +89,40 @@ function draw() {
   
    ellipse(mouseX,mouseY,random(250))
   strokeWeight(10)
-  stroke(191, 65, 130)
-  fill(138, 0, 73)
+
+
+  ## map(); fuction
+
+  Esta función nos permite convertir un valor de un rango a otro.
+En términos simples: toma un número que está en una "escala" y lo traduce
+proporcionalmente a una "escala" nueva.
+
+*  map(valor, min_original, max_original, min_nuevo, max_nuevo)
+  
+  **valor:** La variable que quieres "mapear" (por ejemplo, mouseX).
+**min_original y max_original:** El rango en el que se encuentra ese valor actualmente
+**min_nuevo y max_nuevo:** El rango al que lo quieres transformar.
+
+
+function setup() {
+  createCanvas(800, 400);
+}
+
+function draw() {
+  background(0);
+  
+  //Convertimos el posicion del x del mouse (0 a 800)
+  // Convertimos un valor de color de (0,255)
+
+  let cambioColor = map(mouseX, 0, 800, 0, 255);
+  background(cambioColor);
+  
+  //Convertimos el posicion del x del mouse (0 a 800)
+  // Convertimos un valor de color de (0,255)
+  
+  let cambioTamano=map (mouseY,0,400,10,400)
+  
+ellipse(400,200,cambioTamano)
+  
+  
 }
