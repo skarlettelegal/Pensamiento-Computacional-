@@ -1,12 +1,12 @@
-## Movimiento en P5
+# Movimiento en P5
 
-# Movimiento mouseX, mouseY
-
-
+## Movimiento mouseX, mouseY
 
 
 
-# Movimiento en x,y
+
+
+## Movimiento en x,y
 let circuloAzul = 0;
 
 function setup() {
@@ -46,7 +46,7 @@ function draw() {
 
 }
 
-## Random 
+## Random Fuction
 
 let tamanoCuadrado;
 let bordeCuadrado;
@@ -69,3 +69,24 @@ tamanoCuadrado = random(20,300)
   square(200,200,tamanoCuadrado)
 }
 
+## Movimiento mouse + Random
+
+function setup() {
+  createCanvas(1000, 1000);
+  background(0,0,0)
+  noCursor()
+  frameRate(20)
+}
+
+function draw() {
+  //background(220);
+  ellipse(mouseX,mouseY,random(250))
+  strokeWeight(10)
+  stroke(146,192,247)
+  fill(20, 64, 168)
+  
+   ellipse(mouseX,mouseY,random(250))
+  strokeWeight(10)
+  stroke(191, 65, 130)
+  fill(138, 0, 73)
+}
