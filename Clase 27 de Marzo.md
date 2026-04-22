@@ -89,17 +89,10 @@ createCanvas(100, 100);
 
 
 ##  Función `background()`
-
-### Definición
-
-
-
-### Sintaxis
 background(v1, v2, v3, [a]);
 
 
 ### Parámetros
-
 * **v1, v2, v3:**
   Corresponden a los valores del modelo de color RGB:
 
@@ -201,7 +194,7 @@ colorMode(HSL);
 
 ---
 
-## { TAMAÑO DEL BORDE }
+##  TAMAÑO DEL BORDE 
  strokeWeight(weight);
 
 *Ejemplo:*
@@ -218,10 +211,10 @@ strokeWeight(25);
 
 **noStroke();** para quitar el borde.
 
-### { COLOR DEL BORDE }
+###  COLOR DEL BORDE 
  stroke(v1, v2, v3, [alpha]);
 
-## { FORMA DEL BORDE / LINEA }
+##  FORMA DEL BORDE / LINEA 
 strokeCap(cap);
 
 **Las constantes son:
@@ -229,6 +222,20 @@ ROUND
 SQUARE
 PROJECT**
 
-Por defecto siempre es ROUND
+Por defecto siempre es ROUND  
+
+## RELLENO DE COLOR 
+fill(v1, v2, v3, [alpha]);
+fill();
+Establece el COLOR de relleno
+para las figuras.
+
+
+## DESAFIO 1 + DESAFIO 2
+
+
+ # SOLEMNE 1
+
+ Recreae el dibujo que realizamos en formato 500x500 pixeles.
 
 
