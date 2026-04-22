@@ -60,6 +60,16 @@ se puede combinar con mouseX y mouseY
  > o < (mayor o menor que)
 >= 0 <= (mayor o igual/ menor o igual)
 
+# ENCARGO 4
+
+- Varias figuras geométricas
+- Rotación
+- Translate
+- Push Pop
+- Scale
+- Texto https://p5js.org/es/search/?term=text
+- Imagen https://p5js.org/es/search/?term=image https://editor.p5js.org/PoliMujica/sketches/nm0fj2seC
+- 2 sentencias condicionales completas (If - else if - else)
 
 
 
