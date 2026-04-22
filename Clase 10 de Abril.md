@@ -22,6 +22,8 @@ function draw() {
   ellipse(circuloAzul, circuloAzul, 50, 50);
 }
 
+
+
 ## JavaScrip objects
 Para ordenar las variables, ya que seran varias durante el procedimiento
 
@@ -126,3 +128,24 @@ ellipse(400,200,cambioTamano)
   
   
 }
+
+## width , height
+
+Variables integradas en p5, que corresponden
+a los valores definidos en el createCanvas.
+
+Variables integradas en p5, que permiten ajustar el
+tamaño del lienzo al tamaño de la ventana del
+navegador. **Se usan en el createCanvas.**
+
+## MAP()
+ map(valor, min_original, max_original, min_nuevo, max_nuevo)
+ 
+map(); Esta función nos permite convertir un valor de un rango a otro.
+
+En términos simples: toma un número que está en una "escala" y lo traduce
+proporcionalmente a una "escala" nueva.
+
+valor: La variable que quieres "mapear" (por ejemplo, mouseX).
+min_original y max_original: El rango en el que se encuentra ese valor actualmente
+min_nuevo y max_nuevo: El rango al que lo quieres transformar.
