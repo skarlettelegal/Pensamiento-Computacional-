@@ -10,8 +10,6 @@ Se basa en 4 pilares principales:
 - Abstracción
 - Algoritmos
 
----
-
 # 1. Descomposición
 
 Consiste en dividir un problema grande en partes más pequeñas para resolverlo de forma más simple.
@@ -24,8 +22,6 @@ function dibujarCirculo() {
   ellipse(100, 100, 50, 50);
 }
 
-
----
 
 # 2. Reconocimiento de patrones
 
@@ -40,8 +36,6 @@ for (let i = 0; i < 5; i++) {
 }
 
 
----
-
 # 3. Abstracción
 
 Consiste en quedarse solo con la información importante y eliminar detalles innecesarios.
@@ -55,8 +49,6 @@ let tamaño = mouseX;
 
 ellipse(200, 200, tamaño, tamaño);
 
-
----
 
 # 4. Algoritmos
 
@@ -74,8 +66,6 @@ if (mouseX > 200) {
 }
 
 
----
-
 # Tipos de interacción
 
 ## Interacción discreta
@@ -88,8 +78,6 @@ function mousePressed() {
 }
 
 
----
-
 ## Interacción continua
 
 El sistema responde constantemente al movimiento o acciones del usuario.
@@ -97,8 +85,6 @@ El sistema responde constantemente al movimiento o acciones del usuario.
 
 ellipse(mouseX, mouseY, 50, 50);
 
-
----
 
 # Funciones propias
 
