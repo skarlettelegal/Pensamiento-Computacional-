@@ -200,7 +200,7 @@ Conectando directamente con la problemática de los estándares de belleza y la 
 ## Jenny Holzer
 
 Artista conocida por usar texto proyectado en espacios públicos.
-Su trabajo influye en este proyecto por el uso de frases directas y repetitivas que generan impacto emocional y crítica social.
+Su trabajo influye en el proyecto por el uso de frases directas y repetitivas que generan impacto emocional y crítica social.
 
 <img width="600" height="341" alt="image" src="https://github.com/user-attachments/assets/9201690f-bdc7-4454-b854-108adee0ce02" />
 
