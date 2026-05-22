@@ -211,9 +211,9 @@ Conectando directamente con la problemática de los estándares de belleza y la 
 ## Jenny Holzer
 
 Artista conocida por usar texto proyectado en espacios públicos.
+Su trabajo influye en este proyecto por el uso de frases directas y repetitivas que generan impacto emocional y crítica social.
 
-Su trabajo influye en este proyecto por el uso de frases directas y repetitivas que generan impacto emocional y crítica social, similar a los mensajes de presión estética que aparecen en la interacción.
-
+<img width="600" height="341" alt="image" src="https://github.com/user-attachments/assets/9201690f-bdc7-4454-b854-108adee0ce02" />
 
 ## Barbara Kruger
 
@@ -222,8 +222,7 @@ Su obra combina imágenes en blanco y negro con texto crítico sobre:
 - El cuerpo
 - El consumo
 - Los estereotipos de género
-
-Es un referente clave para el uso de tipografía como elemento de tensión visual y discurso feminista.
+<img width="300" height="302" alt="image" src="https://github.com/user-attachments/assets/aedbb586-95e0-429b-9371-66077f7b51b3" />
 
 
 ## Judith Butler – Teoría de la Performatividad de Género
