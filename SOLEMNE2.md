@@ -1,4 +1,4 @@
-# Pensamiento Computacional S2
+# Pensamiento Computacional Solemne 2
 
 ## Problemática
 
@@ -28,14 +28,12 @@ La problemática que quiero representar en P5.js son los estándares impuestos e
 
 # Referencias Bibliográficas de la Problemática
 
-## Referencia 1
+## Referencias
 
 https://repositoriobiblioteca.uniacc.cl/items/2c7a2552-71b4-4488-9996-13ca616dcf9f
 
 > Según el estudio “Uso del tiempo (hombres y mujeres)” realizado por La Rebelión del cuerpo en el año 2018, las mujeres participantes manifestaron pensar en su cuerpo 3,6 horas diarias en promedio respecto de los hombres del estudio quienes manifestaron que lo hacen 1,8 horas.
 
-
-## Referencia 2
 
 https://revistafacso.ucentral.cl/index.php/liminales/article/view/845
 
@@ -50,7 +48,7 @@ https://revistafacso.ucentral.cl/index.php/liminales/article/view/845
 ## Información del Proyecto
 
 - **Nombre del proyecto:** Transformación de Identidad
-- **Autor/a:** Skarlette Legal
+- **Autora:** Skarlette Legal
 
 # Descripción Objetiva
 
@@ -143,7 +141,7 @@ Esto se representa mediante la interacción del mouse y distintas condiciones vi
 
 ## ¿Qué datos entran? (INPUT)
 
-Estos inputs permiten que el usuario active distintas zonas de la obra al moverse por el canvas.
+Estos inputs permiten que el usuario active distintas zonas de la obra al moverse por el lienzo.
 
 Los datos que ingresan al sistema son:
 
@@ -159,15 +157,7 @@ Los datos que ingresan al sistema son:
 El sistema procesa estos datos mediante condiciones y funciones:
 
 - Las estructuras `if / else if / else` determinan qué escena se muestra según la posición del mouse.
-- Las hitboxes detectan interacción en áreas específicas.
-- `map()` transforma valores del mouse en cambios visuales como:
-  - Opacidad
-  - Escala
-  - Intensidad
 - `random()` introduce variación en:
-  - Colores
-  - Posiciones
-  - Texturas
 - Los bucles `for` repiten textos e imágenes para crear saturación visual.
   
 ## ¿Qué respuesta visual producen? (OUTPUT)
@@ -182,7 +172,7 @@ Como resultado, el sistema genera distintas respuestas visuales dinámicas:
   - “Nunca seré suficiente”
   - “¿Tanto cuesta ser feliz?”
 
-Todo esto refuerza la carga conceptual del proyecto.
+Todo esto refuerza la carga conceptual
 
 # Pensamiento Computacional
 
@@ -196,7 +186,6 @@ Esto genera una experiencia:
 
 - Fragmentada
 - No lineal
-- Sensible a la presencia del usuario
 
 La interacción simula:
 
@@ -227,9 +216,7 @@ Su obra combina imágenes en blanco y negro con texto crítico sobre:
 
 ## Judith Butler – Teoría de la Performatividad de Género
 
-Plantea que el género se construye mediante repetición de normas sociales.
-
-Esto se conecta con la repetición de textos y mensajes que refuerzan la presión sobre el cuerpo femenino.
+Plantea que el género se construye mediante repetición de normas sociales. Esto se conecta con la repetición de textos y mensajes que refuerzan la presión sobre el cuerpo femenino.
 
 
 
@@ -238,10 +225,6 @@ Esto se conecta con la repetición de textos y mensajes que refuerzan la presió
 ## Imagen PNG
 <img width="1864" height="591" alt="image" src="https://github.com/user-attachments/assets/953955ef-1318-468c-a737-f5392d5e00cc" />
 
-
-# Explicación del Diagrama
-
-El diagrama debe explicar las reglas de diseño del sistema interactivo.
 
 
 # Link al Sketch Editable en P5.js
