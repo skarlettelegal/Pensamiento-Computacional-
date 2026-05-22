@@ -237,8 +237,7 @@ Esto se conecta con la repetición de textos y mensajes que refuerzan la presió
 # Diagrama de Flujo
 
 ## Imagen PNG
-
-![Mapa de flujo](attachment:3f8d7876-4f34-4b30-8640-e7e0202a69e9:Mapa_de_flujo___Solemne_2_(1).jpg)
+<img width="1864" height="591" alt="image" src="https://github.com/user-attachments/assets/953955ef-1318-468c-a737-f5392d5e00cc" />
 
 
 # Explicación del Diagrama
