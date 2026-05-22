@@ -41,6 +41,8 @@ https://revistafacso.ucentral.cl/index.php/liminales/article/view/845
 
 > De acuerdo con una investigación realizada por The Wall Street Journal, el 32 % de las mujeres afirma sentirse mal con su cuerpo y que la plataforma Instagram les hace sentir peor (Castaño, 2021).
 
+## Apuntes previos
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/e8c43c0d-4696-4317-ac7d-af8bcd4f050b" />
 
 
 # Documentación (`README.md`)
