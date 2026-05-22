@@ -2,7 +2,7 @@
 
 ## Problemática
 
-La problemática que quiero representar en P5.js son los estándares impuestos en redes sociales y cómo afectan directamente la salud mental de las mujeres.
+La problemática que quiero representar en P5.js son los estándares impuestos en las redes sociales como sociedad y cómo afectan directamente la salud mental de las mujeres.
 
 # Ideal de las Mujeres
 
