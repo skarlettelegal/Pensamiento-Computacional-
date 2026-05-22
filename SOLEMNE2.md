@@ -169,8 +169,7 @@ El sistema procesa estos datos mediante condiciones y funciones:
   - Posiciones
   - Texturas
 - Los bucles `for` repiten textos e imágenes para crear saturación visual.
-
-
+  
 ## ¿Qué respuesta visual producen? (OUTPUT)
 
 Como resultado, el sistema genera distintas respuestas visuales dinámicas:
@@ -184,8 +183,6 @@ Como resultado, el sistema genera distintas respuestas visuales dinámicas:
   - “¿Tanto cuesta ser feliz?”
 
 Todo esto refuerza la carga conceptual del proyecto.
-
-
 
 # Pensamiento Computacional
 
@@ -208,8 +205,6 @@ La interacción simula:
 - Saturación visual
 
 Conectando directamente con la problemática de los estándares de belleza y la exigencia social en redes.
-
-
 
 # Referentes
 
@@ -246,30 +241,14 @@ Esto se conecta con la repetición de textos y mensajes que refuerzan la presió
 ![Mapa de flujo](attachment:3f8d7876-4f34-4b30-8640-e7e0202a69e9:Mapa_de_flujo___Solemne_2_(1).jpg)
 
 
-
 # Explicación del Diagrama
 
 El diagrama debe explicar las reglas de diseño del sistema interactivo.
-
-### Ejemplo
-
-> SI el usuario se acerca al centro, ENTONCES el texto se vuelve ilegible (representando el acoso).
-
-
-
-# Código de P5.js
-
-- El código debe estar:
-  - Identado
-  - Comentado
-  - Explicado detalladamente
-
 
 
 # Link al Sketch Editable en P5.js
 
 [Link editable p5.js](https://editor.p5js.org/Skarlettelegal/sketches/bS1XhMGeL)
-
 
 
 
