@@ -114,14 +114,12 @@ Su obra combina imágenes en blanco y negro con texto crítico sobre:
 
 
 ## Judith Butler – Teoría de la Performatividad de Género
-
 Plantea que el género se construye mediante repetición de normas sociales. Esto se conecta con la repetición de textos y mensajes que refuerzan la presión sobre el cuerpo femenino.
 
 
 
 # Diagrama de Flujo
-
-## Imagen PNG
+<img width="2059" height="1052" alt="EXAMEN" src="https://github.com/user-attachments/assets/72981c0b-7701-43c9-84f7-52468a38cd33" />
 
 
 
